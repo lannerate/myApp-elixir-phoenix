@@ -1,6 +1,6 @@
-# The First App with Elixir Phoenix Framework
+# The App with Elixir Phoenix Framework
 
-## The Phoenix is Productive. Reliable. Fast.
+## Productive. Reliable. Fast.
 Elixir Phoenix - A productive web framework that
 does not compromise speed and maintainability.
 which is written in Elixir, and our application code will also be written in Elixir. 
@@ -15,9 +15,11 @@ To start your Phoenix app:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
+![welcome Logo](Snip20170321_1.png)
+
 Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
 
-##web load testing
+## web load testing
 
 > brew install siege // install web load testing tool for MacOS
 
